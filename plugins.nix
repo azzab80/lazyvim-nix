@@ -21,7 +21,7 @@ let
     cmp-path
     cmp_luasnip
     conform-nvim
-    copilot
+    copilot-lua
     crates-nvim
     dracula-nvim
     dressing-nvim
